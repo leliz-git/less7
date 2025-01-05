@@ -1,0 +1,1 @@
+alert("less 7")
